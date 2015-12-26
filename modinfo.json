@@ -1,0 +1,25 @@
+{
+  "author": "MysticalFists",
+  "build": "85138",
+  "category": [
+    "in-game",
+    "galactic-war",
+    "cheat"
+  ],
+  "context": "client",
+  "date": "2015/08/19",
+  "description": "This mod adds High Resources, High Health, and Reduced Build Speed.",
+  "display_name": "MysticalFists Galactic War Titans Cheats",
+  "enabled": true,
+  "forum": "https://forums.uberent.com/threads/rel-place-holder.69668/",
+  "icon": "https://github.com/MysticalFists/PAGWC/blob/master/ui/mods/MysticalFistsTech/MysticalFists.png?raw=true",
+  "identifier": "MysticalFists.GWT.Cheats",
+  "priority": 100,
+  "scenes": {
+    "galactic_war": [
+      "coui://ui/main/game/galactic_war/cards/gwc_MysticalFists_all.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.0"
+}
